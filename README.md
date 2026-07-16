@@ -213,19 +213,19 @@ The frontend will be available at:
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](https://via.placeholder.com/1200x600?text=SwiftServe+Dashboard+Overview)
+![Dashboard Overview](frontend/screenshot/Screenshot%202026-07-17%20033412.png)
 
 ### KPI Cards
-![KPI Cards](https://via.placeholder.com/1200x400?text=KPI+Cards)
+![KPI Cards](frontend/screenshot/Screenshot%202026-07-17%20033428.png)
 
 ### Alerts Panel
-![Alerts Panel](https://via.placeholder.com/1200x400?text=Alerts+Panel)
+![Alerts Panel](frontend/screenshot/Screenshot%202026-07-17%20033440.png)
 
 ### Tickets at Risk
-![Tickets at Risk](https://via.placeholder.com/1200x400?text=Tickets+at+Risk)
+![Tickets at Risk](frontend/screenshot/Screenshot%202026-07-17%20033440.png)
 
 ### AI Morning Brief
-![AI Morning Brief](https://via.placeholder.com/1200x400?text=AI+Morning+Brief)
+![AI Morning Brief](frontend/screenshot/Screenshot%202026-07-17%20033500.png)
 
 ## Key Achievements
 
